@@ -1,0 +1,53 @@
+#head{
+    padding: 60px;
+}
+#text{
+    padding: 60px;
+    margin-left: 18%;
+}
+#image{
+    padding: 20px;
+}
+#box{
+    width: 800px;
+    height: 60px;
+    border-radius: 5px;
+}
+#button{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 66%;
+    border: none;
+    color: #E6DDC4;
+    background-color: #3C6255;
+}
+label{
+    font-size: 22px;
+    color: #E6DDC4;
+}
+.welcome{
+    font-size:60px;
+    text-align: center;
+    color: #E6DDC4;
+}
+.imagine{
+    font-size: 90px;
+    text-align: center;
+    letter-spacing: 20px;
+    color: #E6DDC4;
+}
+
+img{
+    margin: 180px;
+}
+
+#image{
+    margin-left: 20px;
+}
+body{
+        background-image: linear-gradient(#A6BB8D, #3C6255); 
+}
+input[type=text]:focus {
+    border: black;
+}
